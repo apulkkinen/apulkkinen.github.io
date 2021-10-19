@@ -1,5 +1,6 @@
 body {
   background-color: black;
+color: white;
 }
 h1 {
   font-size: 20;
@@ -9,7 +10,8 @@ p {
 color: green;
 }
 div {
-  border: 2px dotted red;
-width: 100x;
+  border: 2px red;
+border-style: dotted;
+width: 100px;
 height: 100px;
 }
