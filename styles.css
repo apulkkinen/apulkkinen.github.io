@@ -15,3 +15,9 @@ border-style: dotted;
 width: 100px;
 height: 100px;
 }
+ol  {
+list-style: lower-alpha outside none;
+}
+ul  {
+list-style: square outside none;
+}
