@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+h1 {
+  font-size: 20;
+}
+p {
+  font-size: 12;
+color: green;
+}
+div {
+  border: 2px dotted red;
+width: 100x;
+height: 100px;
+}
