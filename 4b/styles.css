@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(48, 15, 15);
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    border: 5px solid red; 
+    padding: 1%;
+width: 25%;
+text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 5px dotted; 
+    border-radius: 30px;
+    padding: 3%;
+width: 50%;
+border-color: white;
+}
+
+p {
+    margin: left;
+    background-color: blue;
+    border: double;
+    top: 15%;  
+    height: 50%;
+    width: 30%;
+border-radius: 10px;
+border-color: black; 
+color: white; 
+    
+}
+
+progress {
+    position: absolute;
+    
+}
+
+a {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+figcaption {
+color: white;
+}
