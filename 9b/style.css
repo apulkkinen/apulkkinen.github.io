@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    width: 100%;
+}
+
+p {
+    float: center;
+    
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+    padding: 50px;
+}
+
+button a {
+    color: black;
+}
+
+nav {
+    color: white;
+    width: 100%;
+    position: fixed; 
+    padding: 5px;
+}
