@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid white;
+    width: 25%;
+    
+
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+input [type="text"] {
+    width: 15%;
+    border-radius: 4px;
+}
