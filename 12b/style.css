@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+p {
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+footer {
+    position: fixed;
+    left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   background-color: black;
+   color: white;
+}
+body {
+    background-color: dimgray;
+    color: white;
+
+}
